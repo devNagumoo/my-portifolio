@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 200 200" role="img" aria-label="Logo GS hexágono contornado">
+  <defs>
+    <style>
+      .txt{font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-weight:800;}
+    </style>
+  </defs>
+  <polygon points="100,18 170,60 170,140 100,182 30,140 30,60"
+           fill="none" stroke="#1e40af" stroke-width="14" stroke-linejoin="round"/>
+  <text x="50%" y="54%" text-anchor="middle" dominant-baseline="middle" class="txt" font-size="68" fill="#1e40af">GS</text>
+</svg>
+
